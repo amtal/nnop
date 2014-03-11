@@ -13,4 +13,4 @@ Building
 Running
 =======
 
-From a shell (`erl -pa ebin`) do nnop_port:run(FromPort,ToPort,WhiteList,BlackList).
+From a shell (`erl -pa ebin`) do `nnop_port:run(FromPort,ToPort,WhiteList,BlackList).`
